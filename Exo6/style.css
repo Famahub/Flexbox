@@ -1,0 +1,15 @@
+.echec{
+    display: flex;
+    height:150px;
+    width: 50%;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+}
+
+figcaption{
+display: none;
+}
+
+
+
+
